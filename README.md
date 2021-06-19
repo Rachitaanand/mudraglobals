@@ -1,16 +1,17 @@
 # mudra_globals
 
-A new Flutter project.
 
-## Getting Started
+A mobile application created using dart, for my internship company mudra global. 
 
-This project is a starting point for a Flutter application.
+Mudra Global is an international import and export company which deals mainly in food export and imports. 
 
-A few resources to get you started if this is your first Flutter project:
+Mudra Global already has a successful running website, however the team wanted me to create a mobile application that makes it easier for employess and customers around the world to access mudra global. 
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+The mobile application has features like:
+Login/signup page
+Employee Management Page
+Location tracking of goods
+Live Chatting
+Browsing of items
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+In the coming year, we are also going to add more features to the application like, shopping online from the application. 
